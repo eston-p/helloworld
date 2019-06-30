@@ -1,0 +1,13 @@
+{
+    "name": "eston/hello-world",
+    "description": "This is a test description",
+    "type": "project",
+    "license": "Mit",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+	    "psr-4" : {
+		    "HelloWorld" : "src/"
+	    }
+    }
+}
